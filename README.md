@@ -1,4 +1,10 @@
 # lulu-1
-![LPR2-SideView](https://github.com/user-attachments/assets/b025f54a-9e6d-47bf-bb18-8829b0a964a4)
-![LPR2-Components](https://github.com/user-attachments/assets/0400a97f-734b-4722-b7d4-42d0ff9a3d80)
-![LPR2-3D](https://github.com/user-attachments/assets/41adb7b7-e4b7-4ca3-ab6a-53ae6fdcf3bf)
+
+## Open Rocket View
+![image](https://github.com/user-attachments/assets/40b007c4-b917-4f29-8d2e-5dd0aec2353b)
+
+## Physical Fully Assembled
+![image](https://github.com/user-attachments/assets/ffaaf086-315b-4458-908b-456b2635c25e)
+
+## LPR Datalogger Prototypes
+![image](https://github.com/user-attachments/assets/2c5503f6-7fae-423e-906a-6cb1240d4b1a)
