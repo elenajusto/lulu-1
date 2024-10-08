@@ -9,11 +9,12 @@
 
 # Electronic
 
-## PCB Schematic Draft 1
+## PCB Design
+### PCB Schematic Draft 1
 ![image](https://github.com/user-attachments/assets/b060e594-dfdc-48f9-82bf-8a733f509034)
 
-## PCB Pinout 1
+### PCB Pinout 1
 ![image](https://github.com/user-attachments/assets/063318a3-7109-4ddc-94c3-e5dcb82f70fc)
 
-## LPR Datalogger Prototypes
+## Perfboard Prototyping
 ![image](https://github.com/user-attachments/assets/2c5503f6-7fae-423e-906a-6cb1240d4b1a)
