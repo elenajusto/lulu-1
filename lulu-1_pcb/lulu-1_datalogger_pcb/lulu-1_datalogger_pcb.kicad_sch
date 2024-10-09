@@ -11419,7 +11419,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal"
 			(at 99.06 123.19 0)
 			(effects
 				(font
@@ -12089,7 +12089,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock:TerminalBlock_Altech_AK300-3_P5.00mm"
 			(at 20.32 25.4 0)
 			(effects
 				(font
@@ -12161,7 +12161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Card:SD-SIM_microSD-microSIM_Molex_104168-1620"
 			(at 242.57 45.212 0)
 			(effects
 				(font
@@ -13168,7 +13168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
 			(at 21.59 163.83 0)
 			(effects
 				(font
@@ -13291,7 +13291,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_AT310_D3.0mm_L10.0mm_Horizontal"
 			(at 101.6 74.93 0)
 			(effects
 				(font
@@ -14847,7 +14847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A"
 			(at 31.75 91.44 0)
 			(effects
 				(font
