@@ -9545,7 +9545,7 @@
 	)
 	(global_label "BUZZ"
 		(shape input)
-		(at 195.58 143.51 270)
+		(at 196.85 143.51 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9555,7 +9555,7 @@
 		)
 		(uuid "f4bfdaac-c82d-44df-8188-38fcce95d4ac")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 195.58 151.5147 90)
+			(at 196.85 151.5147 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11363,16 +11363,15 @@
 	)
 	(symbol
 		(lib_id "Device:Buzzer")
-		(at 198.12 140.97 90)
+		(at 199.39 140.97 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "449fabd9-c8a7-4a46-afd7-d3cdc4560846")
 		(property "Reference" "BZ1"
-			(at 201.93 138.9448 90)
+			(at 203.2 138.9448 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11381,7 +11380,7 @@
 			)
 		)
 		(property "Value" "Buzzer"
-			(at 201.93 141.4848 90)
+			(at 202.946 141.224 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11390,7 +11389,7 @@
 			)
 		)
 		(property "Footprint" "AT_1224_TWT_5V_2_R:XDCR_AT-1224-TWT-5V-2-R"
-			(at 195.58 141.605 90)
+			(at 196.85 141.605 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11399,7 +11398,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 141.605 90)
+			(at 196.85 141.605 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11408,7 +11407,7 @@
 			)
 		)
 		(property "Description" "Buzzer, polarized"
-			(at 198.12 140.97 0)
+			(at 199.39 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13049,7 +13048,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 189.23 143.51 270)
+		(at 189.23 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13057,7 +13056,7 @@
 		(dnp no)
 		(uuid "82e7a016-d891-4462-8ecd-fe137b32dab2")
 		(property "Reference" "D3"
-			(at 186.944 144.78 90)
+			(at 191.516 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13066,7 +13065,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 187.198 142.494 90)
+			(at 191.262 144.526 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14674,7 +14673,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 200.66 143.51 0)
+		(at 201.93 143.51 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14682,7 +14681,7 @@
 		(dnp no)
 		(uuid "bd29bfb3-ec59-4cf4-8773-8e52695f5241")
 		(property "Reference" "#PWR025"
-			(at 200.66 149.86 0)
+			(at 201.93 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14691,7 +14690,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 200.66 147.066 0)
+			(at 201.93 147.066 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14699,7 +14698,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 143.51 0)
+			(at 201.93 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14708,7 +14707,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 143.51 0)
+			(at 201.93 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14717,7 +14716,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 200.66 143.51 0)
+			(at 201.93 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14871,7 +14870,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 181.61 143.51 270)
+		(at 181.61 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14879,7 +14878,7 @@
 		(dnp no)
 		(uuid "c70cca20-5ce4-4f98-a4e5-d1dc17a869cb")
 		(property "Reference" "D2"
-			(at 179.324 144.78 90)
+			(at 183.896 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14888,7 +14887,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 179.578 142.494 90)
+			(at 183.642 144.526 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15670,7 +15669,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 173.99 143.51 270)
+		(at 173.99 143.51 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15678,7 +15677,7 @@
 		(dnp no)
 		(uuid "fae2aa52-fbc5-458d-beb8-999b9dae68ac")
 		(property "Reference" "D1"
-			(at 171.704 144.78 90)
+			(at 176.276 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15687,7 +15686,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 171.958 142.494 90)
+			(at 176.022 144.526 90)
 			(effects
 				(font
 					(size 1.27 1.27)
