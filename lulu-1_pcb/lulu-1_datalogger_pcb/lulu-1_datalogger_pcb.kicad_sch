@@ -10439,7 +10439,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "151031VS06000:WL-TMRC_3MM"
 			(at 207.01 86.36 0)
 			(effects
 				(font
@@ -11655,7 +11655,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 183.388 152.4 90)
 			(effects
 				(font
@@ -14365,7 +14365,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 175.768 152.4 90)
 			(effects
 				(font
@@ -14827,7 +14827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 191.008 152.4 90)
 			(effects
 				(font
@@ -15359,7 +15359,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 201.93 81.788 90)
 			(effects
 				(font
