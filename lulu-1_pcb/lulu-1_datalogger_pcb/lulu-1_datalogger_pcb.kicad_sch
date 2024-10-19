@@ -11389,7 +11389,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AT_1224_TWT_5V_2_R:XDCR_AT-1224-TWT-5V-2-R"
 			(at 195.58 141.605 90)
 			(effects
 				(font
@@ -13074,7 +13074,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "151031VS06000:WL-TMRC_3MM"
 			(at 189.23 143.51 0)
 			(effects
 				(font
@@ -14896,7 +14896,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "151031VS06000:WL-TMRC_3MM"
 			(at 181.61 143.51 0)
 			(effects
 				(font
@@ -15695,7 +15695,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "151031VS06000:WL-TMRC_3MM"
 			(at 173.99 143.51 0)
 			(effects
 				(font
