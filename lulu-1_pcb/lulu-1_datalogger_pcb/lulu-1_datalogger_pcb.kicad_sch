@@ -8569,7 +8569,7 @@
 	)
 	(text "Lulu 1 Datalogger PCB\n"
 		(exclude_from_sim no)
-		(at 220.726 173.99 0)
+		(at 224.282 174.498 0)
 		(effects
 			(font
 				(size 5 5)
@@ -10637,7 +10637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD"
+		(property "Value" "+3V3"
 			(at 233.68 97.7899 90)
 			(effects
 				(font
