@@ -61,6 +61,14 @@ void Error_Handler(void);
 #define CS_SD_GPIO_Port GPIOC
 #define CS_FLASH_Pin GPIO_PIN_1
 #define CS_FLASH_GPIO_Port GPIOC
+#define GPIO_LED1_Pin GPIO_PIN_2
+#define GPIO_LED1_GPIO_Port GPIOC
+#define GPIO_LED2_Pin GPIO_PIN_3
+#define GPIO_LED2_GPIO_Port GPIOC
+#define GPIO_LED3_Pin GPIO_PIN_4
+#define GPIO_LED3_GPIO_Port GPIOC
+#define GPIO_BUZZ_Pin GPIO_PIN_5
+#define GPIO_BUZZ_GPIO_Port GPIOC
 
 /* USER CODE BEGIN Private defines */
 

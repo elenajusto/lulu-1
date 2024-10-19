@@ -283,10 +283,13 @@ static void MX_GPIO_Init(void)
   __HAL_RCC_GPIOB_CLK_ENABLE();
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOC, CS_SD_Pin|CS_FLASH_Pin, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOC, CS_SD_Pin|CS_FLASH_Pin|GPIO_LED1_Pin|GPIO_LED2_Pin
+                          |GPIO_LED3_Pin|GPIO_BUZZ_Pin, GPIO_PIN_RESET);
 
-  /*Configure GPIO pins : CS_SD_Pin CS_FLASH_Pin */
-  GPIO_InitStruct.Pin = CS_SD_Pin|CS_FLASH_Pin;
+  /*Configure GPIO pins : CS_SD_Pin CS_FLASH_Pin GPIO_LED1_Pin GPIO_LED2_Pin
+                           GPIO_LED3_Pin GPIO_BUZZ_Pin */
+  GPIO_InitStruct.Pin = CS_SD_Pin|CS_FLASH_Pin|GPIO_LED1_Pin|GPIO_LED2_Pin
+                          |GPIO_LED3_Pin|GPIO_BUZZ_Pin;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
