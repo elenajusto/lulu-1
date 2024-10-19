@@ -15,8 +15,7 @@
 ![image](https://github.com/user-attachments/assets/ed9a550f-7b30-467e-a0ab-a0114ac57bf7)
 
 ### PCB Schematic 
-![image](https://github.com/user-attachments/assets/e020ca7f-6ed2-4245-a4e1-e244000409f9)
-
+![image](https://github.com/user-attachments/assets/440366e8-e18e-47ab-8c45-b63e5dc28a2c)
 
 ## Perfboard Prototyping
 ![image](https://github.com/user-attachments/assets/2c5503f6-7fae-423e-906a-6cb1240d4b1a)
