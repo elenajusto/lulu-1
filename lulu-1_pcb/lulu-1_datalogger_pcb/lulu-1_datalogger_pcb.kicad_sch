@@ -6805,6 +6805,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 146.05) (xy 196.85 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51b5dd91-124e-4fa2-8d6f-1f8c3a5642f1")
+	)
+	(wire
+		(pts
 			(xy 41.91 72.39) (xy 66.04 72.39)
 		)
 		(stroke
@@ -9191,6 +9201,28 @@
 			)
 		)
 	)
+	(global_label "BUZZ"
+		(shape input)
+		(at 196.85 146.05 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ab8622c7-c15d-4dd4-86e9-183811e4596c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 196.85 154.0547 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "CS_FLASH"
 		(shape input)
 		(at 259.08 31.75 180)
@@ -9534,28 +9566,6 @@
 		(uuid "ed928ab0-0fe0-4af3-a22a-543e8f84fca7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 45.6982 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "BUZZ"
-		(shape input)
-		(at 196.85 143.51 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f4bfdaac-c82d-44df-8188-38fcce95d4ac")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 196.85 151.5147 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,4 +1,18 @@
-23873758130734600
+23889321379537638
+151031VS06000
+WL-TMRC_3MM
+<b>WL-TMRC THT Mono-color Round Color,</b><br><br>Size: 3mm without stopper, THT, 2pins
+
+0
+2
+2
+AT_1224_TWT_5V_2_R
+XDCR_AT-1224-TWT-5V-2-R
+
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +27,20 @@ audio belton reverb
 0
 7
 7
+B2B_PH_K_S
+JST_B2B-PH-K-S
+
+
+0
+2
+2
+B2B_XH_A
+JST_B2B-XH-A
+
+
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -64693,6 +64721,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MEM2067_02_180_00_A
+GCT_MEM2067-02-180-00-A_REVB
+
+
+0
+12
+12
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -88976,13 +89011,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
-SHOU HAN TYPE-C 6P(073)
-TYPE-C 6P(073)
+SBH11_PBPC_D10_ST_BK
+SULLINS_SBH11-PBPC-D10-ST-BK
 
 
 0
-0
-0
+20
+20
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -90649,6 +90684,13 @@ Logo WEEE
 0
 0
 0
+TYPE-C-31-M-12
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+16
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -96746,3 +96788,24 @@ Varistor VF
 0
 2
 2
+footprints
+SOT-23-3_1P4X3P040_ONS
+
+BAT54LT1G 
+0
+3
+3
+footprints
+SOT-23-3_1P4X3P040_ONS-L
+
+BAT54LT1G 
+0
+3
+3
+footprints
+SOT-23-3_1P4X3P040_ONS-M
+
+BAT54LT1G 
+0
+3
+3
